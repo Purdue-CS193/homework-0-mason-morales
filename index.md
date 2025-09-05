@@ -15,6 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# Mason Morales's Fist CS 193 Homework
+- TA's
+- Lessons
+- I also like the lecture hall
+
 - Bulleted
 - List
 
